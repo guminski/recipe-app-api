@@ -53,4 +53,3 @@ class ModelTests(TestCase):
         )
 
         self.assertEqual(str(tag), tag.name)
-
